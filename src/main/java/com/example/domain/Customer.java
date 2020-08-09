@@ -1,6 +1,7 @@
 package com.example.domain;
 
 import lombok.AllArgsConstructor;
+// AllArgsConstructor 全フィールドを引数にもつコンストラクタを生成
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
